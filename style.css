@@ -51,7 +51,7 @@ header h1 {
     background-image: url(pacote-d012/imagens/background001.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    height: 80vh;
+    height: 800px;
     background-position: right center;
     display: flex;
     background-attachment: fixed;
@@ -62,7 +62,7 @@ header h1 {
 #container2 {
     background-image: url(pacote-d012/imagens/background002.jpg);
     background-size: cover;
-    height: 80vh;
+    height: 800px;
     background-position: right center;
     display: flex;
     background-attachment: fixed;
